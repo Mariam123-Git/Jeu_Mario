@@ -68,12 +68,3 @@ Here are the main features included in this Mario-inspired game:
 - **2D Graphics**: Used for rendering the game's visual elements, including the player character, enemies, and background.
 - **Java Sound API**: Used to incorporate sound effects and background music.
 
----
-
-## Installation 📦
-
-To run the game on your local machine, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/mario-game-java.git
